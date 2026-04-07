@@ -1,4 +1,4 @@
-# Proyecto DevOps AWS
+# actividad DevOps AWS
 
 ## Descripción
 Automatización de EC2 y backups en S3 usando Python y Bash.
