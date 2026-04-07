@@ -17,7 +17,7 @@ feature → develop → main
 - Python (boto3)
 - Bash
 
-- 
+  
 ## Pruebas realizadas
 
 ### 1. Gestión de EC2
