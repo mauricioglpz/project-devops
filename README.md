@@ -44,4 +44,3 @@ cat logs/backup.log
 
 Resultado:
 - Se registraron correctamente las ejecuciones.
----
